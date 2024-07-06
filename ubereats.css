@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    overflow-x: hidden;
+}
 @font-face {
     font-family: 'Uber move' ;
     src: url(font/14f73a3f74611002.woff2);
